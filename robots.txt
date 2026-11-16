@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Modelos de IA: permitido rastreo e indexación de contenido para citas.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
