@@ -1,60 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/</loc>
+    <loc>https://droqueretaro.site/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>/blog</loc>
+    <loc>https://droqueretaro.site/blog</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>/blog/que-es-un-dro-queretaro</loc>
-    <lastmod>2026-07-01</lastmod>
+    <loc>https://droqueretaro.site/calculadora</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/ventajas-desventajas-dro-independiente</loc>
-    <lastmod>2026-07-01</lastmod>
+    <loc>https://droqueretaro.site/servicios</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/servicios/dro-queretaro</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/documentos-para-iniciar-obra-en-queretaro</loc>
-    <lastmod>2026-07-01</lastmod>
+    <loc>https://droqueretaro.site/servicios/regularizacion-de-obras</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/documentos-iniciar-obra-corregidora</loc>
-    <lastmod>2026-07-01</lastmod>
+    <loc>https://droqueretaro.site/servicios/direccion-de-obra-civil</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/documentos-iniciar-obra-el-marques</loc>
-    <lastmod>2026-03-19</lastmod>
+    <loc>https://droqueretaro.site/servicios/estudios-estructurales</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/documentos-iniciar-obra-san-juan-del-rio</loc>
-    <lastmod>2026-03-26</lastmod>
+    <loc>https://droqueretaro.site/servicios/factibilidad-y-diagnostico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/regularizacion-obras-queretaro</loc>
-    <lastmod>2026-07-01</lastmod>
+    <loc>https://droqueretaro.site/servicios/obra-civil-industrial</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>/blog/ruta-vecs-paso-a-paso</loc>
-    <lastmod>2026-05-02</lastmod>
+    <loc>https://droqueretaro.site/para/propietarios</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/para/empresas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/zonas/queretaro</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/zonas/corregidora</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/zonas/el-marques</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/zonas/san-juan-del-rio</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/proyectos/casa-nueva</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/proyectos/ampliacion</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/proyectos/local-comercial</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/cuanto-cuesta-permiso-construccion-queretaro</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/necesito-dro-para-barda-ampliacion</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/obra-clausurada-queretaro-que-hacer</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/que-es-un-dro-queretaro</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/ventajas-desventajas-dro-independiente</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/documentos-para-iniciar-obra-en-queretaro</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/documentos-iniciar-obra-corregidora</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/documentos-iniciar-obra-el-marques</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/documentos-iniciar-obra-san-juan-del-rio</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/regularizacion-obras-queretaro</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://droqueretaro.site/blog/ruta-vecs-paso-a-paso</loc>
+    <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -1,0 +1,1 @@
+var e=`/assets/proyecto-autoforjas-Be3WCOkx.jpg`;export{e as t};

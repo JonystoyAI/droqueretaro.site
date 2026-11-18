@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-CXk3X59i.js";import{n as t,r as n}from"./index-UnvT8zf1.js";var r=e();function i(){let{service:e}=t.useLoaderData();return(0,r.jsx)(n,{service:e})}export{i as component};

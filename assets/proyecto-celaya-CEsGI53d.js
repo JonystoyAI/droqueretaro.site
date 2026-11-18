@@ -1,0 +1,1 @@
+var e=`/assets/proyecto-plaza-platinum-CgPvqQ8d.jpg`,t=`/assets/proyecto-celaya-DfelH0P9.jpg`;export{e as n,t};
